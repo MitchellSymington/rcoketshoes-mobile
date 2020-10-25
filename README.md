@@ -1,27 +1,16 @@
-<h1 align="center">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/rocketshoes/master/web/.github/logo_2.png" align="center">
-</h1>
+# :notebook_with_decorative_cover: Instruções
 
-<h3 align="center">E-commerce construído com React Native, Redux e Redux-Saga</h3>
+### :fire: Rodar os comandos abaixo:
 
-### App
+:one: Clonar projeto</br>
+`$ git clone https://github.com/MitchellSymington/rocketshoes-mobile.git`
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/rocketshoes/master/mobile/.github/exemple-android1.png" width="50%" height="50%"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/rocketshoes/master/mobile/.github/exemple-android-2.png" width="50%" height="50%">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/rocketshoes/master/mobile/.github/exemple-android3.png" width="50%" height="50%"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/rocketshoes/master/mobile/.github/exemple-android4.png" width="50%" height="50%">
+:two: Ir para o diretório </br>
+`$ cd rocketshoes-mobile`
 
-## Como fazer funcionar em sua máquina
+:three: Instalar dependencias</br>
+`$ yarn install`
 
-```sh
-yarn install
+:four: Iniciar</br>
+`$ yarn start`</br>
 
-# start the json-server api
-yarn api:server
-
-# android:
-react-native run-android
-
-# ios:
-react-native run-ios
-
-OBS: Construído e testado somente em Android.
-# rcoketshows-mobile
